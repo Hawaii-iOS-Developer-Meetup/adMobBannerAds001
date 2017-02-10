@@ -1,0 +1,6 @@
+framework module Pods_runnerRunnerTests {
+  umbrella header "Pods-runnerRunnerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
